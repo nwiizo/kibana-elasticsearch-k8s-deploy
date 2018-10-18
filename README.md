@@ -1,2 +1,2 @@
 # kibana-elasticsearch-k8s-deploy
-Building of Kibana, elasticsearch monitoring system on Kubernetes
+Building of Kibana, elasticsearch monitoring system on Kubernetes or docker
